@@ -13,11 +13,13 @@ Project:
 
 Input:
 * https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Detailed information about the input can be found in "UCI HAR Dataset/README.txt" and other realated txt files.
 The script will take care of downloading and unzip the input file if not already done.
 
 Script:
 * run_analysis.R
+
 Run as: source("run_analysis.R")
 
 Output:
